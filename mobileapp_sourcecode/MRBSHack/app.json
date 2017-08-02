@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "MRBSHack",
+    "icon": "./src/img/dek.png",
+    "version": "1.0.0",
+    "slug": "MRBSHack",
+    "sdkVersion": "18.0.0",
+    "ios": {
+      "bundleIdentifier": "com.deklab.mrbshack"
+    },
+    "android": {
+      "package": "com.deklab.mrbshack"
+    }
+  },
+  "name": "MRBSHack",
+  "displayName": "MRBSHack"
+}
